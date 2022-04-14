@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "1.0.1",
+  "description": "this is about node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "nareshit"
+  ],
+  "author": "nareshit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "zone.js": "^0.11.5"
+  }
+}

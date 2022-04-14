@@ -18,7 +18,9 @@ Vs Code extensions
 
 
 NPM
+//////////////
 Basic NodeJS(in built)(Os,file,http)
+
 NodeJS(full Stack App) (Node-
 -Mongo-Express)
 Third Party Api (Weather Api)
@@ -54,3 +56,48 @@ Html/css/jquery
 
 microservice(aws lambda)
 upload to s3 bucket
+
+//////////////
+NodeJs >
+Single Thread , Async , Non Blocking I/O
+
+
+c++ + libu
+v8
+
+
+//////JSON///////
+"JavaScript Object Notation"
+"Structure to represent data"
+[
+    {
+        "name":"John",
+        "class":"Ui"
+    },
+    {
+        "name":"Ankita",
+        "class":"NodeJs"
+    }
+]
+
+//////////
+NPM > node package manager
+/////
+
+package.json
+> Entry Point to app
+> contains command like > start, test
+> contains all package we use
+> meta data (description, version ,name)
+
+//////Step to generate package.json
+** NodeJs must be install in system
+> go inside the folder using cmd/terminal
+> npm init
+> Answer all question
+> type "yes"
+
+//////Step to install package
+** NodeJs must be install in system
+> go inside the folder using cmd/terminal
+> npm i package-name
