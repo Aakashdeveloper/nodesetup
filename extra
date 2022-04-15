@@ -101,3 +101,12 @@ package.json
 ** NodeJs must be install in system
 > go inside the folder using cmd/terminal
 > npm i package-name
+
+///es5
+var a = 10
+var b = "my age is "+a 
+"my age is 10"
+
+///Es6
+var a = 10
+var b = `my age is ${a}`

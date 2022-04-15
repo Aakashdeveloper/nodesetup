@@ -1,0 +1,2 @@
+You are using darwin os of x64 bit with 4 core system .
+You are using darwin os of x64 bit with 4 core system.
