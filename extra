@@ -18,9 +18,8 @@ Vs Code extensions
 
 
 NPM
-//////////////
 Basic NodeJS(in built)(Os,file,http)
-
+//////////////
 NodeJS(full Stack App) (Node-
 -Mongo-Express)
 Third Party Api (Weather Api)
@@ -110,3 +109,25 @@ var b = "my age is "+a
 ///Es6
 var a = 10
 var b = `my age is ${a}`
+
+////////Global package////
+Only Package that is require to 
+run app (require before app start)
+will go global
+
+////////////
+#window
+> open cmd as admin
+> npm i -g packageName
+
+#mac/linux
+> open terminal
+> sudo npm i -g packageName
+
+//////////Nodemon////
+> automatically restart the server when any change detected
+> npm i -g nodemon
+
+////////dev dependency/package////
+> go inside the folder
+> npm i packageName --save-dev

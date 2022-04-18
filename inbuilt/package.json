@@ -1,0 +1,21 @@
+{
+  "name": "inbuiltapp",
+  "version": "1.0.0",
+  "description": "this is about inbuilt",
+  "main": "fs.js",
+  "scripts": {
+    "start": "node http.js",
+    "dev": "nodemon http.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "nareshit",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
